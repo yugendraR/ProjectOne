@@ -6,5 +6,8 @@ public static void main(String[] args) {
 	System.out.println(s);
 	int a = 10;
 	System.out.println(a);
+	float f =1.23f;
+	System.out.println(f);
+
 }
 }
